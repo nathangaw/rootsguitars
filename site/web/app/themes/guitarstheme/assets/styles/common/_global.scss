@@ -1,1 +1,27 @@
+/* * {
+	border: 1px red solid;
+} */
 
+/* image formatting */
+.full-width-image {
+	width: 100%;
+}
+
+/* Add floats */
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+
+/* text formatting */
+.brand-text {
+	color: $brand-primary;
+}
+
+.centred-text {
+	text-align: center;
+}

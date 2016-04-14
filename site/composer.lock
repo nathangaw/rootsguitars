@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "93dbcd30f63e4e9062507d76e6a6f2c4",
-    "content-hash": "099885938b206192d5895d66aaefb0b5",
+    "hash": "7f06060530bd62fb38f95b7e86f36a20",
+    "content-hash": "6ed743ac1750d2b73df014d90447d561",
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.0.24",
+            "version": "v1.0.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988"
+                "reference": "36e5b5843203d7f1cf6ffb0305a97e014387bd8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988",
-                "reference": "1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988",
+                "url": "https://api.github.com/repos/composer/installers/zipball/36e5b5843203d7f1cf6ffb0305a97e014387bd8e",
+                "reference": "36e5b5843203d7f1cf6ffb0305a97e014387bd8e",
                 "shasum": ""
             },
             "require": {
@@ -105,20 +105,20 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-04-05 11:42:46"
+            "time": "2016-04-13 19:46:30"
         },
         {
             "name": "johnpbloch/wordpress",
-            "version": "4.4.2",
+            "version": "4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress.git",
-                "reference": "fe9320de0793602084c600e22c0c5e0bb601a264"
+                "reference": "a975896d0806f3dc1ccf3e170f91226440b267cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/fe9320de0793602084c600e22c0c5e0bb601a264",
-                "reference": "fe9320de0793602084c600e22c0c5e0bb601a264",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/a975896d0806f3dc1ccf3e170f91226440b267cb",
+                "reference": "a975896d0806f3dc1ccf3e170f91226440b267cb",
                 "shasum": ""
             },
             "require": {
@@ -142,7 +142,7 @@
                 "blog",
                 "cms"
             ],
-            "time": "2016-02-02 17:16:14"
+            "time": "2016-04-12 17:46:20"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
